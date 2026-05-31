@@ -6,6 +6,8 @@ A sleek, modern, and fully responsive navigation sidebar menu built using clean,
 
 ## 📌 About The Project
 
+[![Live Demo](https://img.shields.io/badge/demo-live%20preview-success?style=for-the-badge&logo=githubpages&logoColor=white)](https://veon321.github.io/sidebar-menu/)
+
 This project is a code-along recreation built strictly **for educational and learning purposes**. It was developed to practice and master modern UI component structures, smooth CSS transitions, responsive web design (RWD) with media queries, and interactive DOM manipulation.
 
 ### 🌟 Key Features:
